@@ -1,5 +1,9 @@
 # Data-Mining
 
+#fake-data-creation.py
+
+At times you would need data to train your model for better accuarcy and it not always easy to find the data that suits your needs. Creating fake data can be a solution for this problem. The above program creates a random employee data that I used to train a ML model.
+
 #webscrper.py
 
 This is a simple python code for web scraping a youtube video using Selenium.
